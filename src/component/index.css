@@ -1,0 +1,29 @@
+.mainBox{
+    border: #FFFFFF;
+    background-color: #FFFFFF;
+}
+.star{
+    color: red;
+}
+.dropdown-content select {
+    color: #FFFFFF;
+    background-color: #00A4BD;
+}
+.dropdown-content .class:hover {
+    color: #FFFFFF;
+    background-color: #00A4BD;
+}
+.formBox{
+    padding: 10px 10px;
+}
+.forms{
+    margin-top: 50px;
+}
+.save{
+    background-color: purple;
+    color: #FFFFFF;
+}
+.cancel{
+    color: #FFFFFF;
+    background-color: orange;
+}
