@@ -1,12 +1,12 @@
 import './App.css';
-import Header from './header';
-import MainSection from './component';
+import Header from './header/header';
+import Section from './section/Index';
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <MainSection />
+      <Section />
     </div>
   );
 }

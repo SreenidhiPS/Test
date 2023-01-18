@@ -1,0 +1,83 @@
+.containers{
+    max-width: 98%;
+}
+.main-section{
+    padding: 5px 15px;
+    margin-left: -80px;
+}
+.form-section{
+    margin-top: 25px;
+    background-color: #fff;
+    text-align: justify;
+}
+.section-header{
+    float: left;
+}
+.main-section-header{
+    background-color: rgb(61, 150, 239);
+    width: 100%;
+    text-align: justify;
+    padding-left: 5px;
+    color: #fff;
+    font-size: 8px;
+    font-weight: 400;
+}
+.form-body{
+    text-align: justify;
+    padding: 10px 20px;
+}
+.form-head{
+    color: rgb(61, 150, 239);
+    font-weight: 500;
+    font-size: 22px;
+}
+.form-label{
+    font-size: 18px;
+}
+.star{
+    color: red;
+}
+.select-input{
+    width: 88%;
+    text-align: center;
+}
+.halfs{
+    max-width: 120%;
+}
+.half{
+    max-width: 80%;
+}
+.selectors{
+    background-color: #fff;
+}
+.selectors select option{
+    background-color: #fff;
+}
+.text-input{
+    max-width: 80%;
+}
+.buttons{
+    text-align: center;
+}
+.save{
+    padding: 5px 5px;
+    background-color: rgb(145, 50, 209);
+    color: #fff;
+    font-weight: 400;
+    border-color:transparent;
+}
+.save:hover{
+    font-weight: 500;
+    font-size: 16px;
+}
+.cancel{
+    padding: 5px 5px;
+    background-color: rgb(237, 181, 15);
+    color: #fff;
+    font-weight: 400;
+    border-color:transparent;
+}
+.cancel:hover{
+    font-weight: 500;
+    font-size: 16px;
+}

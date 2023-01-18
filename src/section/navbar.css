@@ -1,0 +1,36 @@
+.category {
+    padding: 15px;
+    height: 90vh;
+    color: rgb(96, 95, 95);
+    max-width: 250px;
+    max-height: 100%;
+    background-color: #fff;
+}
+.chead h1 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.chead h1:nth-child(2) {
+    opacity: 0.5;
+    border-left: 3px solid rgba(0, 0, 0, 0.5);
+    padding-left: 30px;
+}
+.navHead{
+    max-width: 240px;
+}
+.category span {
+    margin: 6px 10px;
+    text-transform: capitalize;
+}
+.category .box {
+    transition: 0.5s;
+    padding: 0 20px;
+}
+.category .box:hover {
+    background-color: #bad3e4;
+    cursor: pointer;
+    font-weight: 500;
+}
+.f_flex {
+    display: flex;
+}
